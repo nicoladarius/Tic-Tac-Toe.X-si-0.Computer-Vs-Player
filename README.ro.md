@@ -1,5 +1,7 @@
 # Joc X și 0 (Tic-Tac-Toe) - Jucător vs Computer
 
+## Întregul cod, inclusiv comentariile și interacțiunile cu utilizatorul, este scris în limba română pentru a asigura o experiență complet localizată.
+
 ## Descriere
 
 Această aplicație implementează jocul clasic de **X și 0** (Tic-Tac-Toe) într-un mediu în care un jucător joacă împotriva computerului. Jocul se desfășoară pe o tablă de joc 3x3, iar obiectivul este de a plasa trei simboluri pe linie (orizontal, vertical sau pe diagonală).
