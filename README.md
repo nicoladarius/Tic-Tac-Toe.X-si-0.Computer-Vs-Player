@@ -1,7 +1,8 @@
 # Tic-Tac-Toe Game – Player vs. Computer
 
-## Description
+##The entire code, including comments and user interactions, is written in Romanian to ensure a fully localized experience.
 
+## Description
 This application implements the classic Tic-Tac-Toe game, where a player competes against the computer. The game is played on a 3x3 board, and the objective is to place three symbols in a row (horizontally, vertically, or diagonally).
 
 **Game Rules** are:
