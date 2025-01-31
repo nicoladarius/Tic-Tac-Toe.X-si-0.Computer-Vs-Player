@@ -1,5 +1,7 @@
 # Tic-Tac-Toe Game – Player vs. Computer
 
+By Nicola Darius - https://github.com/nicoladarius/Tic-Tac-Toe.X-si-0.Computer-Vs-Player
+
 ## The entire code, including comments and user interactions, is written in Romanian to ensure a fully localized experience.
 
 ## Description
