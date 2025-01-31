@@ -1,0 +1,29 @@
+Tic-Tac-Toe Game – Player vs. Computer
+Description
+This application implements the classic Tic-Tac-Toe game, where a player competes against the computer. The game is played on a 3x3 board, and the objective is to place three symbols in a row (horizontally, vertically, or diagonally).
+
+Game Rules
+The player and the computer take turns selecting cells on the game board.
+The player plays with the X symbol, while the computer plays with the O symbol.
+The player enters moves using coordinates (e.g., A1, B2, C3).
+The computer makes random moves in an available cell.
+The game ends when one of the players wins or when the game results in a draw.
+Technologies Used
+Python 3 – The programming language used to implement the application.
+Simple Algorithm – The computer randomly selects a move from the available cells.
+Terminal/Console – The application runs in a terminal or command prompt.
+How the Application Works
+The application is based on the following core functionalities:
+
+Game Board: A 3x3 matrix representing the board. Each cell can contain an X or O symbol (or remain empty).
+Player Moves: The player inputs the coordinates where they want to place their X symbol. Valid move examples: A1, B2, C3.
+Computer Moves: The computer places an O symbol randomly in an empty cell.
+Winner Verification: After each move, the application checks if there is a winner or if the game ends in a draw.
+How to Run the Application
+Save the file as tic_tac_toe.py.
+Open a terminal and navigate to the directory where you saved the file.
+Run the following command:
+bash
+Copy
+Edit
+python tic_tac_toe.py  
